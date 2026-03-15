@@ -32,6 +32,7 @@ I love building **open-source projects**, exploring cloud-native computing, and 
 - **[Obsero](https://github.com/michaeltukdev/Obsero)** — A distributed server monitor and analytics platform.
 - **[Potok](https://github.com/michaeltukdev/Potok)** — A self-hosted Obsidian cross-device file syncer.
 - **[Vestnik](https://github.com/michaeltukdev/Vestnik)** — A terminal-based RSS feed aggregator built with Bubble Tea and Lip Gloss.
+- **[Zadacha](https://github.com/mtiluk/Zadacha)** - An open-source research implementation of a Distributed Job Queue using Go and Redis.
 
 ## Thoughts
 
