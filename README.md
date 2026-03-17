@@ -17,7 +17,7 @@ var about = About{
         "frontend":  {"Javascript", "Bootstrap", "Tailwind", "ReactJS"},
         "backend":   {"PHP", "Laravel", "Laravel Livewire"},
         "databases": {"MySQL", "SQLite", "PostgreSQL", "MongoDB"},
-        "devops":    {"Git", "Docker", "Vercel", "Laravel Forge"},
+        "devops":    {"Git", "Docker", "Vercel", "Laravel Forge", "Kubernetes"},
     },
     OpenSource: true,
 }
