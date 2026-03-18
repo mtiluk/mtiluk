@@ -15,7 +15,7 @@ var about = About{
     Interests:  []string{"Open Source", "Cloud Security", "Web Development"},
     TechStack: map[string][]string{
         "frontend":  {"Javascript", "Bootstrap", "Tailwind", "ReactJS"},
-        "backend":   {"PHP", "Laravel", "Laravel Livewire"},
+        "backend":   {"PHP", "Laravel", "Laravel Livewire", "Go"},
         "databases": {"MySQL", "SQLite", "PostgreSQL", "MongoDB"},
         "devops":    {"Git", "Docker", "Vercel", "Laravel Forge", "Kubernetes"},
     },
