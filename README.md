@@ -39,6 +39,10 @@ I love building **open-source projects**, exploring cloud-native computing, and 
 I occasionally write blogs on [mtil.uk](https://mtil.uk):
 
 <!-- BLOG:START -->
+- [Improving This Site's SEO](https://mtil.uk/blog/improving-this-sites-seo) — _Jul 2026_<br>
+  This blog will briefly explore how I plan to improve this site's SEO. It will also give you example code snippets and guidelines to help you improve your own…
+- [Deploying My Services](https://mtil.uk/blog/deploying-my-services) — _Jun 2026_<br>
+  This blog will briefly explore how I deploy this application and several others both efficiently and affordably. I'll explain a few things in particular where…
 <!-- BLOG:END -->
 
 ## Get in Touch
