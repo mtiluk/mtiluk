@@ -34,14 +34,12 @@ I love building **open-source projects**, exploring cloud-native computing, and 
 - **[Vestnik](https://github.com/michaeltukdev/Vestnik)** — A terminal-based RSS feed aggregator built with Bubble Tea and Lip Gloss.
 - **[Zadacha](https://github.com/mtiluk/Zadacha)** - An open-source research implementation of a Distributed Job Queue using Go and Redis.
 
-## Publications
-
 ## Thoughts
 
-I occasionally write here and [on michaelt.uk](https://michaelt.uk):
+I occasionally write blogs on [mtil.uk](https://mtil.uk):
 
-- “X” _(coming soon)_
-- “X” _(coming soon)_
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 ## Get in Touch
 
