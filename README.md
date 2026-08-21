@@ -1,31 +1,10 @@
-```go
-type About struct {
-    Name       string
-    Location   string
-    Profession string
-    Interests  []string
-    TechStack  map[string][]string
-    OpenSource bool
-}
-
-var about = About{
-    Name:       "Michael Tilley",
-    Location:   "United Kingdom",
-    Profession: "Student / Software Engineer",
-    Interests:  []string{"Open Source", "Cloud Security", "Web Development"},
-    TechStack: map[string][]string{
-        "frontend":  {"Javascript", "Bootstrap", "Tailwind", "ReactJS"},
-        "backend":   {"PHP", "Laravel", "Laravel Livewire", "Go"},
-        "databases": {"MySQL", "SQLite", "PostgreSQL", "MongoDB"},
-        "devops":    {"Git", "Docker", "Vercel", "Laravel Forge", "Kubernetes"},
-    },
-    OpenSource: true,
-}
-```
-
 Hi, I'm **Michael**!  
-I'm a final-year Computer Science student and software engineer from <img src="https://emojis.slackmojis.com/emojis/images/1643513064/38180/british.png?1643513064" width="13"/> United Kingdom.  
-I love building **open-source projects**, exploring cloud-native computing, and pushing the boundaries of memory and system security.
+I'm a Computer Science graduate and research assistant from <img src="https://emojis.slackmojis.com/emojis/images/1643513064/38180/british.png?1643513064" width="13"/> United Kingdom.  
+My current research interests centre on **privacy redesigns of common systems**, **secure cloud and networks engineering**, and **embedded and IoT**.
+
+Currently focused on building projects and researching, attempting to increase my knowledge and understanding of distributed systems and networking.
+
+Looking for my next thing. Come say hi!
 
 ## Projects
 
