@@ -21,8 +21,8 @@ I occasionally write blogs on [mtil.uk](https://mtil.uk):
   This blog will briefly explore how I plan to improve this site's SEO. It will also give you example code snippets and guidelines to help you improve your own…
 - [Self-Updating Readme](https://mtil.uk/blog/self-updating-readme) — _Jul 2026_<br>
   A guide on how I implemented a self-updating GitHub readme using an RSS feed and GitHub actions to display my most recent blog posts.
-- [Deploying My Services](https://mtil.uk/blog/deploying-my-services) — _Jun 2026_<br>
-  This blog will briefly explore how I deploy this application and several others both efficiently and affordably. I'll explain a few things in particular where…
+- [Privacy Preserving Wi-Fi Probe Requests](https://mtil.uk/projects/privacy-preserving-wifi-probe-requests) — _Jul 2026_<br>
+  A research prototype showing that Wi-Fi discovery can run on an obfuscated per-device alias rather than a plaintext SSID.
 <!-- BLOG:END -->
 
 ## Get in Touch
