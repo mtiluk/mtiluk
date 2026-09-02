@@ -11,6 +11,7 @@ Looking for my next thing. Come say hi!
 - **[Potok](https://github.com/michaeltukdev/Potok)** — A self-hosted Obsidian cross-device file syncer.
 - **[Vestnik](https://github.com/michaeltukdev/Vestnik)** — A terminal-based RSS feed aggregator built with Bubble Tea and Lip Gloss.
 - **[Zadacha](https://github.com/mtiluk/Zadacha)** - An open-source research implementation of a Distributed Job Queue using Go and Redis.
+- **[soko](https://github.com/mtiluk/soko)** - Real-time flight tracker and radar for RGB LED Matrix Panels. 
 
 ## Thoughts
 
