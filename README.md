@@ -18,12 +18,12 @@ Looking for my next thing. Come say hi!
 I occasionally write blogs on [mtil.uk](https://mtil.uk):
 
 <!-- BLOG:START -->
+- [Soko](https://mtil.uk/projects/soko) — _Sep 2026_<br>
+  IoT Real-Time Flight Tracker and Radar for RGB LED Matrix Panels
 - [I Bought a Matrix Panel](https://mtil.uk/blog/i-bought-a-matrix-panel) — _Aug 2026_<br>
   This blog explores whether TheFlightWall, an LED matrix display showing live aircraft data, can be recreated affordably with parts from AliExpress. I'll break…
-- [Improving This Site's SEO](https://mtil.uk/blog/improving-this-sites-seo) — _Jul 2026_<br>
-  This blog will briefly explore how I plan to improve this site's SEO. It will also give you example code snippets and guidelines to help you improve your own…
-- [Self-Updating Readme](https://mtil.uk/blog/self-updating-readme) — _Jul 2026_<br>
-  A guide on how I implemented a self-updating GitHub readme using an RSS feed and GitHub actions to display my most recent blog posts.
+- [Potok](https://mtil.uk/projects/potok) — _Aug 2026_<br>
+  A self-hosted, end-to-end encrypted CLI tool for backing up and syncing Obsidian vaults across devices.
 <!-- BLOG:END -->
 
 ## Get in Touch
