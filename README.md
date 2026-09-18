@@ -18,11 +18,11 @@ Looking for my next thing. Come say hi!
 I occasionally write blogs on [mtil.uk](https://mtil.uk):
 
 <!-- BLOG:START -->
-- [Soko](https://mtil.uk/projects/soko) — _Sep 2026_<br>
+- [Soko](https://mtil.uk/projects) — _Sep 2026_<br>
   IoT Real-Time Flight Tracker and Radar for RGB LED Matrix Panels
 - [I Bought a Matrix Panel](https://mtil.uk/blog/i-bought-a-matrix-panel) — _Aug 2026_<br>
   This blog explores whether TheFlightWall, an LED matrix display showing live aircraft data, can be recreated affordably with parts from AliExpress. I'll break…
-- [Potok](https://mtil.uk/projects/potok) — _Aug 2026_<br>
+- [Potok](https://mtil.uk/projects) — _Aug 2026_<br>
   A self-hosted, end-to-end encrypted CLI tool for backing up and syncing Obsidian vaults across devices.
 <!-- BLOG:END -->
 
